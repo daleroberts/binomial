@@ -1,0 +1,8 @@
+Solutions for various option pricing problems using
+binomial trees.
+
+- European options
+- American options
+- Game options
+
+Dale Roberts <dale.o.roberts@gmail.com>
