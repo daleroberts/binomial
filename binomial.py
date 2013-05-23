@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Cox-Ross-Rubinstein Binomial model
-# Copyright (c) Dale Roberts 2009
+# Copyright (c) Dale Roberts 2009 <dale.o.roberts@gmail.com>
 
 from numpy import array, zeros, arange
 

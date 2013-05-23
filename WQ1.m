@@ -1,3 +1,7 @@
+% Warm-up question 1
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+%
 u = 1.2
 %d = 0.9
 d = 1/u

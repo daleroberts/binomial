@@ -1,3 +1,7 @@
+% European option price
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+%
 % Use this function like this in command prompt:
 %   euro(1.2,0.9,0.1,1,1,3,@put)
 %   euro(1.2,0.9,0.1,1,1,3,@call)

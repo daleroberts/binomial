@@ -1,3 +1,7 @@
+% Replicating portfolio
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+%
 function [SP, BP] = eurorep(u, d, r, T, S0, K, payoff)
 	% Calculates replicating portfolio for a European-style
 	% claim payoff.

@@ -1,3 +1,7 @@
+% Question 2a)
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+%
 d = 0.95;
 u = 1.05;
 r = 0.02;

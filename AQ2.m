@@ -1,5 +1,7 @@
-% MATH3041 Q2
-
+% Question 2
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+%
 d = 1.2;
 u = 1.4;
 r = 0.3;

@@ -1,3 +1,7 @@
+% European put price
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+%
 function ret = europut(u, d, r, T, S0, K)
 p = (1 + r - d) / (u - d);
 for i=0:T

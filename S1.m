@@ -1,3 +1,7 @@
+% Solution 1
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+%
 u = 1.05;
 d = 0.97;
 r = 0.02;

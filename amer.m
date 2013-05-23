@@ -1,3 +1,7 @@
+% American option pricing
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+
 S = 60;
 K = 65;
 TTM = 0.25;

@@ -1,3 +1,7 @@
+% Warmup question 3
+%
+% Dale Roberts <dale.o.roberts@gmail.com>
+%
 u = 1.2;
 d = 1/u;
 r = 0:0.01:0.2;
